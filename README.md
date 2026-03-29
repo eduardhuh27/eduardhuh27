@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá, eu sou Eduardo Gomes 👋
 
-<!--
-**eduardhuh27/eduardhuh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, apaixonado por lógica e programação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tecnologias:** C | PHP | HTML
+
+👨‍💻 **Sobre mim:**
+- Focado em construir uma base sólida em programação
+- Aberto a oportunidades de estágio e trainee
+- 📍 Rio de Janeiro, Brasil
+
+📬 [LinkedIn](https://www.linkedin.com/in/eduardo-gomes-017428379/)
