@@ -23,10 +23,11 @@ Em busca da primeira oportunidade na área de tecnologia.
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardhuh27&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardhuh27&layout=compact&theme=tokyonight&hide_border=true)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardhuh27&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardhuh27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
